@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Skriptorium"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#5F021F"
+
+# Menu
+menu_primary = "#5F021F"
+menu_text = "#fff"
+menu_text_active = "#1b5e20"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(75, 0, 11)"
+home_section_even = "rgb(95, 2, 31)"
