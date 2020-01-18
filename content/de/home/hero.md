@@ -3,9 +3,9 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
-title = "Unterstützt den Almanach und das Skriptorium"
+title = "Unterstützt das Skriptorium"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "almanach_14na.png"
@@ -54,13 +54,9 @@ title = "Unterstützt den Almanach und das Skriptorium"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**Reichet Gold(randtaler) eurem Schreiber**
+**Reichet Gold(randtaler) euren Schreibern**
 
-Stadtführer, Bücher über Spiele, Waldläuferbücher und vieles mehr wollen wir euch im Skriptorium bieten. Aber das
-klappt nur durch finanzielle Unterstützung, denn Bücher drucken ist in der Realität sehr teuer und die Druckereien
-nehmen keine Kupfer (ich habe es probiert).
-
-Natürlich habt ihr auch dieses Jahr wieder die Gelegenheit, an der Crowd-Funding-Kampagne für den [Aldradach-Almanach](http://www.aldradach-almanach.de) 
-mitzumachen, die JETZT gerade anläuft, aber wenn ihr uns dauerhafter unterstützen wollt, dann haben wir auf Steady ein paar attraktive
-Pakete für euch geschnürt.
+Stadtführer, Bücher über Spiele, Waldläuferbücher, Dokumente und vieles mehr wollen wir euch im Skriptorium bieten. Aber Material kostet
+leider Geld, auch unabhängig von der Kampagne für den [Aldradach-Almanach](http://www.aldradach-almanach.de). Daher: bitte
+unterstützt uns durch eine regelmäßige Spende auf Steady.
 

@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Lesungen und Vorträge"
-subtitle = "Hier erlebt ihr uns und unsere Autoren live"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
