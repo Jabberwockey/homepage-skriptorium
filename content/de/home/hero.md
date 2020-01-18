@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Unterstützt den Almanach und das Skriptorium"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "almanach-14na.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -31,20 +31,26 @@ hero_media = "hero-academic.png"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  url = "https://steadyhq.com/jabberwockey"
+  label = "Reichet Gold eurem Schreiber und unterstützt das Skriptorium bei seinen Projekten"
   icon_pack = "fas"
-  icon = "download"
+  icon = "coins"
+
+[cta]
+  url = "https://www.startnext.com/aldradach-almanach-2020"
+  label = "Beteiligt euch an der Crowd-Funding-Kampagne des Aldradach-Almanachs"
+  icon_pack = "fas"
+  icon = "book"
   
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+# [cta_alt]
+#   url = "https://sourcethemes.com/academic/"
+#   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
