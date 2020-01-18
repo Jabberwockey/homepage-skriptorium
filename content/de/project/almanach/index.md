@@ -1,6 +1,6 @@
 ---
-tags: ["almanach", "aldradach", "drachenfest", "reiseführer"]
-categories: ["projekte", "stadtführer"]
+tags: ["Almanach", "Aldradach", "Drachenfest", "Reiseführer"]
+categories: ["Projekte", "Stadtführer"]
 comments: true
 title: "Aldradach-Almanach"
 date: "2020-01-18T11:31:00+01:00"
