@@ -11,7 +11,7 @@
 [[main]]
   name = "Unterstützen"
   url = "#hero"
-  weight = 15
+  weight = 30
 
 #[[main]]
 #  name = "Beiträge"
@@ -21,7 +21,7 @@
 [[main]]
   name = "Projekte"
   url = "#projects"
-  weight = 30
+  weight = 15
 
 #[[main]]
 #  name = "Veröffentlichungen"
