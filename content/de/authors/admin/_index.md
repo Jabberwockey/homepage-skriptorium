@@ -30,4 +30,6 @@ user_groups:
 Bartholomäus Federkiel, gespielt von Jens Grabarske, ist der ehemalige Direktor des Aldradacher Stadttheaters. Nach einer durchzechten Nacht übernahm er die Pflege
 des [Aldradach-Almanach](http://www.aldradach-almanach.de) von Ludovic dem Spieler, dem vorigen Autor. Anfangs sollte diese Tätigkeit nur nebenbei geschehen um
 sich so besser in die Stadt Aldradach einzugewöhnen. Doch mehr und mehr entdeckte Bartholomäus seine Liebe für das geschrieben Wort. Mit dem Aldradacher Skriptorium
-will er nicht nur den Aldradach-Almanach weiterpflegen, er will auch allgemein das gedruckte und geschriebene Wort pflegen.
+will er nicht nur den Aldradach-Almanach weiterpflegen, er schreibt auch
+weiter an anderen Projekten und unterstützt werdende Autoren dabei,
+ihre Werke an die Leser zu bringen.
