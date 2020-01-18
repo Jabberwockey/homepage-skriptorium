@@ -38,27 +38,26 @@ hero_media = "almanach-14na.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://steadyhq.com/jabberwockey"
-  label = "Reichet Gold eurem Schreiber und unterstützt das Skriptorium bei seinen Projekten"
+  label = "Gold reichen"
   icon_pack = "fas"
   icon = "coins"
 
-[cta]
-  url = "https://www.startnext.com/aldradach-almanach-2020"
-  label = "Beteiligt euch an der Crowd-Funding-Kampagne des Aldradach-Almanachs"
-  icon_pack = "fas"
-  icon = "book"
-  
 # [cta_alt]
 #   url = "https://sourcethemes.com/academic/"
 #   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+# [cta_note]
+#   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+**Reichet Gold(randtaler) eurem Schreiber**
 
-Build **Anything** with Widgets
+Stadtführer, Bücher über Spiele, Waldläuferbücher und vieles mehr wollen wir euch im Skriptorium bieten. Aber das
+klappt nur durch finanzielle Unterstützung, denn Bücher drucken ist in der Realität sehr teuer und die Druckereien
+nehmen keine Kupfer (ich habe es probiert).
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+Natürlich habt ihr auch dieses Jahr wieder die Gelegenheit, an der Crowd-Funding-Kampagne für den [Aldradach-Almanach](http://www.aldradach-almanach.de) 
+mitzumachen, die JETZT gerade anläuft, aber wenn ihr uns dauerhafter unterstützen wollt, dann haben wir auf Steady ein paar attraktive
+Pakete für euch geschnürt.
+
