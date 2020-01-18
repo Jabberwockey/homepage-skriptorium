@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Dienst&shy;leistungen"
-subtitle = "Das bieten wir an"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
