@@ -1,6 +1,6 @@
 ---
-tags: ["Almanach", "Aldradach", "Drachenfest", "Reiseführer"]
-categories: ["Projekte", "Stadtführer"]
+tags: ["Spiele", "Würfelspiele"]
+categories: ["Projekte", "Spiele"]
 comments: true
 title: "Halt's Maul und Spiel!"
 date: "2020-01-18T11:31:00+01:00"
