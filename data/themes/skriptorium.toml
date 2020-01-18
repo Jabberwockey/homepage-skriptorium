@@ -5,14 +5,14 @@ name = "Skriptorium"
 light = true
 
 # Primary
-primary = "#5F021F"
+primary = "#660022"
 
 # Menu
-menu_primary = "#5F021F"
-menu_text = "#fff"
-menu_text_active = "#f5ff00"
-menu_title = "#fff"
+menu_primary = "#ebe5ce"
+menu_text = "#ced1c0"
+menu_text_active = "#bad1c9"
+menu_title = "#ebe5ce"
 
 # Home sections
-home_section_odd = "rgb(244, 244, 244)"
-home_section_even = "rgb(245, 251, 241)"
+home_section_odd = "rgb(235, 229, 206)"
+home_section_even = "rgb(206, 209, 192)"

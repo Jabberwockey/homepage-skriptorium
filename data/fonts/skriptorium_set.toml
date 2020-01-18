@@ -7,6 +7,6 @@ google_fonts = "EB+Garamond|Montserrat|Roboto|Roboto+Mono"
 
 # Font families
 heading_font = "EB+Garamond"
-body_font = "Montserrat"
-nav_font = "Roboto"
+body_font = "EB+Garamond"
+nav_font = "Montserrat"
 mono_font = "Roboto Mono"
