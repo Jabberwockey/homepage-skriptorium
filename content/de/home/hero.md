@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Unterstützt den Almanach und das Skriptorium"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "almanach-14na.png"
+# hero_media = "almanach_14na.png"
 
 [design]
    columns = "1"
