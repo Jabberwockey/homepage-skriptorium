@@ -10,6 +10,9 @@ title = "Unterstützt den Almanach und das Skriptorium"
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "almanach-14na.png"
 
+[design]
+   columns = "1"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
