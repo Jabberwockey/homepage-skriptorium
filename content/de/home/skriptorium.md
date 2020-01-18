@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Das Aldradacher Skriptorium stellt sich vor"
-subtitle = "Mehr als nur der Almanach"
+title = "Willkommen beim Aldradacher Skriptorium"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -21,7 +21,7 @@ subtitle = "Mehr als nur der Almanach"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "DarkGreen"
+  # color = "DarkGreen"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -35,7 +35,7 @@ subtitle = "Mehr als nur der Almanach"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,10 +49,13 @@ subtitle = "Mehr als nur der Almanach"
  css_class = ""
 +++
 
-Willkommen auf der Webseite des **Aldradacher Skriptoriums**.
+Ihr interessiert euch für Bücher aus den Drachenlanden? Ihr möchtet
+eure Dokumente kalligraphisch schön aufbereitet haben? Ihr interessiert
+euch für den
+[Aldradach-Almanach](http://www.aldradach-almanach.de), _DEM_ Reiseführer
+für die Stadt Aldradach auf dem Drachenfest?
 
-Vielleicht kennt ihr uns schon. Denn jedes Jahr bringen wir den [Aldradach-Almanach](http://www.aldradach-almanach.de) heraus, _DEN_ Reiseführer für die Stadt Aldradach auf dem Drachenfest, der
-zweitgrößten LARP-Veranstaltung Deutschlands.
-
-Doch wir machen noch so einiges mehr und das wollen wir euch auf diesen Seiten vorstellen.
+Dann seid ihr hier genau richtig! Das Skriptorium öffnet auch im Jahr
+14 n.A., dem Jahr der dritten Herrschaft des Roten Drachen, wieder seine
+Pforten und bietet euch spannende Buchprojekte und schöne Schrift!
 
