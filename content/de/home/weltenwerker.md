@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Trefft uns auf dem WeltenWerker Konvent"
+title = "Trefft uns auf dem WELTENwerker Konvent in Gießen"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "almanach_14na.png"
@@ -54,8 +54,6 @@ title = "Trefft uns auf dem WeltenWerker Konvent"
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-#**Reichet Gold(randtaler) euren Schreibern**
-
-Bartholomäus Federkiel, der Direktor, hält auf dem WeltenWerker Konvent am Samstag, den 7. März um 19 Uhr
+Jens Grabarske aka Bartholomäus Federkiel, der Direktor, hält auf dem WeltenWerker Konvent am Samstag, den 7. März um 19 Uhr
 einen Vortrag in Raum 3 - nicht verpassen!
 
