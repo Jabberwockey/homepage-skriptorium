@@ -29,3 +29,4 @@ Hört doch einmal rein:
 
 [Spiel's aus | Weltenwerker - Wundertüte und Familientreffen](http://www.spielsaus.de/weltenwerker-wundertuete-und-familientreffen/)
 
+Vielen Dank noch einmal an das Team von Spiel's AUS!
