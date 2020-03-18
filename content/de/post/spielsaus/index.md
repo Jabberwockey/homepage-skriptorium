@@ -1,10 +1,13 @@
 ---
-categories: ["con", "podcast", "weltenwerker"]
+tags: ["Conventions", "Podcasts", "WELTENwerker"]
+categories: ["Conventions", "Podcasts", "WELTENwerker"]
 comments: true
 title: "Spiel's AUS - Wir auf dem WELTENwerker Konvent"
 date: "2020-03-18T20:32:00+01:00"
 slug: ""
 draft: ""
+markup: mmark
+diagram: true
 ---
 
 Am 7. und am 8. März 2020, noch rechtzeitig vor der anrollenden
