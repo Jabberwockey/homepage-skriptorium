@@ -23,6 +23,11 @@
   url = "#projects"
   weight = 15
 
+[[main]]
+  name = "Blog"
+  url = "#posts"
+  weight = 16
+
 #[[main]]
 #  name = "Veröffentlichungen"
 #  url = "#featured"
