@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Luisa Fall
+name: Frantje Fall
 
 # Username (this should match the folder name)
 authors:
-- luisa
+- frantje
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,6 +27,6 @@ user_groups:
 - Verwaltung
 ---
 
-Luisa Fall, played by Sophia Vergin, is the faithful lady of the counter at
+Frantje Fall, played by Sophia Vergin, is the faithful lady of the counter at
 the Scriptorium. Tireless and always friendly she handles the customers, writes
 certificates and documents and accepts new orders for the Scriptorium.

@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Luisa Fall
+name: Frantje Fall
 
 # Username (this should match the folder name)
 authors:
-- luisa
+- frantje
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,7 +27,7 @@ user_groups:
 - Verwaltung
 ---
 
-Luisa Fall, gespielt von Sophia Vergin, ist die treue Dame vom Kontor des
+Frantje Fall, gespielt von Sophia Vergin, ist die treue Dame vom Kontor des
 Skriptoriums. Unermüdlich und immer freundlich bedient sie Kunden, schreibt
 Urkunden und Dokumente und nimmt andere Aufträge für das Skriptorium
 entgegen.
