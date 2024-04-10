@@ -5,12 +5,12 @@ name = "Skriptorium"
 light = true
 
 # Primary
-primary = "#660022"
+primary = "black"
 
 # Menu
-menu_primary = "#660022"
+menu_primary = "black"
 menu_text = "#fff"
-menu_text_active = "#bad1c9"
+menu_text_active = "#ccc"
 menu_title = "#fff"
 
 # Home sections

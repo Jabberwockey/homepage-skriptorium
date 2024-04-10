@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Right Hand
+role: Illustrator and front desk
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.aldradacher-skriptorium.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Right Hand and Sales
+bio: Illustrator and front desk
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -27,9 +27,8 @@ user_groups:
 - Verwaltung
 ---
 
-Albrecht Knutson, played by Pascal Lipinski, is the right hand of the director,
-Bartholomäus Federkiel. Due to his direct but honest and true personality, the director
-entrusts him with the major part of PR and sales operations at the Scriptorium.
+Otto, played by Alex Betzing, is... well, he's an Otto. But we have grown quite attached
+to his presence in our team. If he's not helping customers getting books, he's busy illustrating
+and he has a lot of fans who appreciate his work.
 
-It is thanks to Albrecht's tireless efforts that the Scriptorium is now one of the
-contact points for the Parenus Foundation.
+He proved his good eye for cartography and drawing skills as a juror at the treasure map competition.
