@@ -1,11 +1,11 @@
 ---
 # Display name
-name: Albrecht Knutson
+name: Otto
 
 # Username (this should match the folder name)
 authors:
-- struppi
-
+- otto
+  
 # Is this the primary user of the site?
 superuser: false
 
